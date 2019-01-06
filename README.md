@@ -1,6 +1,6 @@
 # Greatest Common Divisor (GCD)
 ## Releases
-A compiled jar file can be found in the releases or you can compile one yourself from the source code.
+A compiled jar file can be found in the [I'm an inline-style link](https://www.google.com) or you can compile one yourself from the source code.
 
 ## Wiki
 I wrote this software a while back to help myself under my discrete mathematics exam. Finding the greatest common divisor is not a hard task by it self but i wanted to spare time and make sure that i did not make misktes in the large amount of small simple calculations.
